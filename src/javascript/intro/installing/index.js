@@ -1,6 +1,6 @@
-export const name = '';
+export const name = 'Courtney';
 
-export const email = '';
+export const email = 'courtney.nguyen@heliotraining.com';
 
 export const phone = '801-201-2200';
 

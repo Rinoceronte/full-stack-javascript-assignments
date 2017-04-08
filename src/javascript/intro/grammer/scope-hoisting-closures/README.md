@@ -16,3 +16,5 @@
 5. Observe the calculate function.  What's weird about it?  How is the an example of hoisting?
 6. What is hoisting?
 
+
+I completed Everything
