@@ -1,11 +1,12 @@
 module.exports = wallaby => ({
   files: [
-    'src/**/*',
+    'src/_datasets/*.js',
+    'src/javascript/intro/**/*.js',
     '!src/**/*.test.js'
   ],
   
   tests: [
-    'src/**/*.test.js'
+    'src/javascript/intro/**/*.test.js',
   ],
   
   env: {
